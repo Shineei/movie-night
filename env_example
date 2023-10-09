@@ -1,0 +1,13 @@
+# Firebase:
+# Replace with your Firebase credentials.
+# Make sure to delete the double quotes.
+# Rename the File as .env and save it.
+REACT_APP_FIREBASE_API_KEY="Replace using your FIREBASE_API_KEY"
+REACT_APP_FIREBASE_AUTH_DOMAIN="Replace using your FIREBASE_AUTH_DOMAIN"
+REACT_APP_FIREBASE_PROJECT_ID="Replace using your FIREBASE_PROJECT_ID"
+REACT_APP_FIREBASE_STORAGE_BUCKET="Replace using your FIREBASE_STORAGE_BUCKET"
+REACT_APP_FIREBASE_SENDER="Replace using your FIREBASE_SENDER"
+REACT_APP_APP_ID=1:"Replace using your APP_ID"
+
+# Movie Data Base
+REACT_APP_MDB_API_KEY="Replace using your MDB Key!"
